@@ -1,0 +1,21 @@
+img {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+}
+
+h1 {
+  color: rgb(10, 122, 182);
+}
+
+hr {
+  border-width: 10px;
+  border-style: dotted none none none;
+  width: 10%;
+  color: gray;
+}
+
+body {
+  background-color: rgb(210, 236, 200);
+  font-family: "Alkatra", cursive;
+}
